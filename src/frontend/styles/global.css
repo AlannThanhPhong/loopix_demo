@@ -2199,3 +2199,54 @@ html[data-active-lang="en"] .lang-btn[data-lang="vi"] {
     display: grid;
   }
 }
+
+@media (max-width: 1100px) and (max-height: 520px) and (orientation: landscape) {
+  .tour-detail-header {
+    background: rgba(255, 255, 255, 0.9);
+    -webkit-backdrop-filter: blur(14px);
+    backdrop-filter: blur(14px);
+  }
+
+  .tour-detail-header .nav {
+    height: calc(48px + env(safe-area-inset-top, 0px));
+    padding-top: env(safe-area-inset-top, 0px);
+  }
+
+  .tour-detail-header .logo-mark {
+    height: 36px;
+    width: 36px;
+  }
+
+  .tour-detail-header .logo-wordmark {
+    height: 24px;
+  }
+
+  .tour-detail-header .btn-contact {
+    min-height: 40px;
+    min-width: 96px;
+    padding: 8px 14px;
+  }
+
+  .tour-detail-page {
+    padding-top: 0;
+  }
+
+  .tour-detail-stage {
+    min-height: 100vh;
+    min-height: 100svh;
+    min-height: 100dvh;
+  }
+
+  .tour-detail-frame {
+    height: 100vh;
+    height: 100svh;
+    height: 100dvh;
+    min-height: 100vh;
+    min-height: 100svh;
+    min-height: 100dvh;
+  }
+
+  .tour-detail-page > footer {
+    display: none;
+  }
+}

@@ -19,7 +19,7 @@ export const tours = {
     label: 'Hotel',
     title: 'Green World Hotel',
     slug: 'green-world-hotel',
-    src: '/NhaTrang/index.htm',
+    src: '/NhaTrang/index.htm?loopix=controls-v3-20261103',
     poster: '/NhaTrang/thumbnail.png',
     projectSlug: 'green-world-hotel',
   },
