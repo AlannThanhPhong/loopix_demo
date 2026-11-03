@@ -15,6 +15,14 @@ export const tours = {
     poster: '/loopix%20hotel.png',
     projectSlug: 'hotel',
   },
+  'green-world-hotel': {
+    label: 'Hotel',
+    title: 'Green World Hotel',
+    slug: 'green-world-hotel',
+    src: '/NhaTrang/index.htm',
+    poster: '/NhaTrang/thumbnail.png',
+    projectSlug: 'green-world-hotel',
+  },
 };
 
 export function getTourBySlug(slug) {

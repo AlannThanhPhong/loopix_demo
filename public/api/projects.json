@@ -86,5 +86,16 @@
     "descriptionVi": "Xây dựng niềm tin vững chắc cho người mua bằng cách tích hợp minh bạch thông tin pháp lý và nội thất ngay trong tour.",
     "descriptionEn": "Build unshakeable buyer trust by embedding ownership documents and furniture specs directly into your premium virtual tour.",
     "delay": 700
+  },
+  {
+    "id": 9,
+    "slug": "green-world-hotel",
+    "tag": "Hotel",
+    "image": "/NhaTrang/thumbnail.png",
+    "fallback": "/NhaTrang/thumbnail.png",
+    "title": "Green World Hotel",
+    "descriptionVi": "Khám phá Green World Hotel tại Nha Trang qua trải nghiệm tham quan 360° tương tác.",
+    "descriptionEn": "Explore Green World Hotel in Nha Trang with an interactive 360° virtual tour.",
+    "delay": 800
   }
 ]

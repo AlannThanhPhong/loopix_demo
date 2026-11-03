@@ -1,0 +1,132 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_22999C73_3C0F_4365_41B5_8011438FBA8C.text = Accommodation Block
+HotspotPanoramaOverlayTextImage_26919F6B_3C15_3E9C_41C7_AA1C88E37A74.text = Accommodation Block
+HotspotPanoramaOverlayTextImage_7FC225D2_443C_CD67_41C9_C11F76E5A5C3.text = Accommodation Block
+HotspotPanoramaOverlayTextImage_258A7E51_3C1D_3E8E_41C4_89FD3183230D.text = Conference Room
+HotspotPanoramaOverlayTextImage_25B8047B_3C0C_C377_41A2_BC0997D88359.text = Conference Room
+HotspotPanoramaOverlayTextImage_214E7AB2_3C0F_47E7_41C8_A213335FC5E1.text = Elevator Lobby
+HotspotPanoramaOverlayTextImage_7F15CC13_4437_C2E6_4194_CB847DE1CF48.text = Elevator Lobby
+HotspotPanoramaOverlayTextImage_615A6932_4434_C53C_41CD_89110197347B.text = Fitness
+HotspotPanoramaOverlayTextImage_25FD973F_3C1D_4EF2_41CF_8BA0A222B9CA.text = Fitness + Pool
+HotspotPanoramaOverlayTextImage_26238E47_3C0D_7E9F_41C6_4CA50A645EEE.text = Fitness + Pool
+HotspotPanoramaOverlayTextImage_6078826C_4435_4724_41CB_F6ED93DED938.text = Gateway
+HotspotPanoramaOverlayTextImage_65D48C64_4413_4324_41CC_21C63DD36D38.text = Green World Hotel
+HotspotPanoramaOverlayTextImage_5F8AE758_4433_CD6B_41CD_D6E0780B228C.text = Pool
+HotspotPanoramaOverlayTextImage_65C20C87_440D_43E3_4190_F7FD157B5B56.text = Restaurant
+HotspotPanoramaOverlayTextImage_002EB35E_443D_C51F_41BC_18928FDA695C.text = Restaurant
+HotspotPanoramaOverlayTextImage_2182A533_3C15_42E4_41CF_6393ED004F54.text = Standard Double
+HotspotPanoramaOverlayTextImage_20E51589_3C13_4DA7_41AE_C6A6218DC72A.text = Standard Twin
+
+## Media
+
+### Image
+imlevel_0C7450B8_4434_C324_41C4_DCAB3F784676.url = media/panorama_2A9A26E4_2647_D6FF_41B0_5A7940B3CC46_HS_uz26zm9x_en.webp
+imlevel_0C77306F_4434_C33B_41B1_638A46D7CAFE.url = media/panorama_2A9AEF26_2646_777B_41BA_0D36E934C092_HS_001z53na_en.webp
+imlevel_0C5CCCBA_4434_C324_41C7_9D7D6AE44837.url = media/panorama_300F843B_20F7_6765_41B7_5C77687C0510_HS_7xndse4l_en.webp
+imlevel_0C247BE7_4434_C52C_418C_BD897887E969.url = media/panorama_300F843B_20F7_6765_41B7_5C77687C0510_HS_9dz0h9dx_en.webp
+imlevel_0C5EAC92_4434_C3E4_41BE_13D6BE59B657.url = media/panorama_300F843B_20F7_6765_41B7_5C77687C0510_HS_eiixz1qg_en.webp
+imlevel_0C200C4B_4434_C37B_41B1_F5D475F987EF.url = media/panorama_300F843B_20F7_6765_41B7_5C77687C0510_HS_nysbqloi_en.webp
+imlevel_0C540DC9_4434_DD64_41C5_1CB2F8AA1D16.url = media/panorama_300FFBF7_20F7_60ED_41B6_8389C66BF900_HS_e25fulj2_en.webp
+imlevel_0C5A9CE2_4434_C325_41A2_6E7A05AFF112.url = media/panorama_300FFBF7_20F7_60ED_41B6_8389C66BF900_HS_okv8eiq0_en.webp
+imlevel_0C566D5D_4434_DD1C_41CD_4E7529E0B455.url = media/panorama_300FFBF7_20F7_60ED_41B6_8389C66BF900_HS_x6i2w44t_en.webp
+imlevel_0C50DE32_4434_DF25_4132_42A162E1551C.url = media/panorama_302170D9_2093_A0DB_41A8_42D304AEA178_HS_td6174yw_en.webp
+imlevel_0C7A204E_4434_C37C_41B0_7F0A6B93A52A.url = media/panorama_31652847_2090_AF3F_41A4_2CE5A64335B8_HS_12vjw0z1_en.webp
+imlevel_0C7B5027_4434_C32C_41C6_691001FD064C.url = media/panorama_31652847_2090_AF3F_41A4_2CE5A64335B8_HS_6dfsqaq7_en.webp
+imlevel_0BE42F52_440C_FD6E_41B2_DE4298FAB706.url = media/panorama_3165E144_2090_A131_41C0_590E54C093B4_HS_4udsoe0b_en.webp
+imlevel_0C465F40_4434_DD64_41C5_8513D8C6FDB1.url = media/panorama_3165E144_2090_A131_41C0_590E54C093B4_HS_dojds787_en.webp
+imlevel_0C7E2FF8_4434_DD24_41C6_C3E154B599C7.url = media/panorama_3165E144_2090_A131_41C0_590E54C093B4_HS_izga01mo_en.webp
+imlevel_0C496EEC_4434_DF3D_41A4_F456695C282D.url = media/panorama_3263F6F6_20B1_A0D7_41B4_B6323B7DFBD0_HS_xayv6r2h_en.webp
+imlevel_0C4D3E7A_4434_DF24_41B8_D22303B91D09.url = media/panorama_3263F6F6_20B1_A0D7_41B4_B6323B7DFBD0_HS_z1qb1zs4_en.webp
+
+### Title
+panorama_2AA9CCF8_2071_60FB_4189_1D0559DC5DC8.label = Cafe Space 1
+panorama_2AA9853D_2071_6175_41BB_56F7D50EF09B.label = Cafe Space 1.2
+panorama_2AA9C4D9_2070_A73D_41B1_6E960AA7BC42.label = Cafe Space 1.4
+panorama_31F474F4_20B1_A0EB_41BA_09352DBB4F78.label = Conference Room A
+panorama_31F4ABDB_20B1_A0DD_4165_20B1A5E4EEF6.label = Conference Room B
+panorama_31F7F800_20B1_EF2B_41B4_46A66E109080.label = Conference Room C
+panorama_2AA4AB2D_2646_5F48_41B0_66B4C79D5CC0.label = Connecting Room
+panorama_2AA4B43F_2646_4948_41BE_9BABBF3E901B.label = Connecting Room (1)
+panorama_2AAC223F_2646_4949_41BB_D25DE937B013.label = Connecting Room (2)
+panorama_2AA51EBB_2646_5949_4167_D944F457451C.label = Deluxe Twin
+panorama_2AA560D5_2646_4AD8_41B1_50C1492BA7DB.label = Deluxe Twin (1)
+panorama_2AA4D7BD_2646_5749_41B2_3B8E31D0CBA0.label = Deluxe Twin (2)
+panorama_2AAD79BD_2646_3B49_4191_DF61242CBAF2.label = Deluxe Twin (WC)
+panorama_2A9BA6EE_2647_D6CB_41AE_46C957B76A65.label = Dining Area
+panorama_2AA3D74D_2646_37C9_41C1_2BDBF22B8526.label = Dining Area
+panorama_2A9AD706_2646_5738_41C1_B98EBB9B1F0B.label = Dining Area
+panorama_2A9A1684_2647_C93F_41AD_FC7001987371.label = Dining Area
+panorama_2A9ABEE7_2646_56F8_41C1_C93DC8BCD049.label = Dining Area
+panorama_300FFBF7_20F7_60ED_41B6_8389C66BF900.label = Elevator
+panorama_300F843B_20F7_6765_41B7_5C77687C0510.label = Elevator 1.1
+panorama_3263F6F6_20B1_A0D7_41B4_B6323B7DFBD0.label = Elevator Lobby 
+panorama_3165E144_2090_A131_41C0_590E54C093B4.label = Elevators
+panorama_3009ECD9_20F1_A725_41B4_2405EBE99BB1.label = Entrance
+panorama_300F3C7C_20F7_67E3_41BB_A145F1984212.label = Entrance 2
+panorama_2A9BE75E_2647_F7CB_41A3_263A03081C29.label = Entrance to I - Restaurant
+panorama_2A9AEF26_2646_777B_41BA_0D36E934C092.label = Entrance to I - Restaurant
+panorama_31F4EE3B_20B1_A35D_41B1_63E58F03EF29.label = Foyer Center
+panorama_2AA20EB3_2647_D958_41C2_D700F5703F7D.label = Garden Area
+panorama_2A9A1E81_2646_3938_41BB_E3C3C200E932.label = Garden Oasis
+panorama_2AAC9F09_2646_5749_41A4_7666362ADFD8.label = Garden Path
+panorama_294306BD_2646_4949_41C0_EC8CFFD06E60.label = Garden Path
+panorama_2A9BBF14_2647_F75F_4197_E9735E1E3508.label = Garden Path
+panorama_300B2128_20F0_A163_41BF_135FDF93D6AD.label = Hotel Gate
+panorama_2A9A26E4_2647_D6FF_41B0_5A7940B3CC46.label = I - Restaurant
+panorama_2A9A7700_2646_5737_4182_91ADC0CB9E20.label = I - Restaurant
+panorama_3166BD91_2090_A153_41A8_A582DEECC9D0.label = Indoor Swimming Pool
+panorama_316534C5_2090_E733_41B7_02A266F03D8E.label = Indoor Swimming Pool
+panorama_30091883_20F1_6F25_41B7_47F13F1949A6.label = Lobby
+panorama_3009312C_20F1_6163_4191_603631BA0D21.label = Lobby 2
+panorama_302170D9_2093_A0DB_41A8_42D304AEA178.label = Main Entrance
+panorama_2AA9ED0D_2071_6115_41AA_1C5C502EF1F0.label = Order Counter 1.3
+panorama_2AAAB552_2071_A10F_41B3_A0F3CF1B0FF4.label = Outdoor Café Space 1
+panorama_2AA96CD4_2071_A70A_4182_A4D00CB12757.label = Outdoor Café Space 2
+panorama_2AA674E0_2071_670B_41A2_F1EBFF0E99C5.label = Outdoor Café Space 3
+panorama_3114C4EA_20F7_60E7_41BA_FAFB6868D1DB.label = Reception Desk
+panorama_30086D36_20F1_A16F_4191_EE4CA130A85C.label = Rest Area
+panorama_2A9AF49C_2646_494F_41A4_27AF01C975F7.label = Room 1Bed
+panorama_2AA2ABB5_2646_5F59_41B0_19DACEE9D041.label = Room 1Bed1
+panorama_2A9A3D4A_2646_7BC8_41B4_F11448761B2E.label = Senior Suite
+panorama_608BA01F_4415_42C4_41CE_AD7005B07D31.label = Senior Suite 
+panorama_2AA2F627_2646_4978_419C_4D3F42ED38E7.label = Senior Suite (BR)
+panorama_2A9A7EEE_2646_56CB_4160_EAA1B198AC6F.label = Senior Suite (LR)
+panorama_339D08FB_20F0_A0E5_41B6_C1FE92C3F55A.label = Side Entrance
+panorama_3009246F_20F1_A7FD_41AC_AA55C33DB906.label = Sidewalk
+panorama_2AA59F7C_2646_D7C8_41C0_70BD4C817AAC.label = Standard Double
+panorama_2AA59695_2646_C959_41B9_48316E9AB147.label = Standard Double (1)
+panorama_2AA4A93D_2646_3B48_4185_60EC2F174D50.label = Standard Twin
+panorama_2AA7E077_2645_C9D8_4191_0F315C9ECFDB.label = Standard Twin (1)
+panorama_2AA4FD17_2646_7B58_41B2_9EF2D1406AAD.label = Superior Twin A
+panorama_2AA4E5C2_2646_4B38_4178_420F88DA3A14.label = Superior Twin A (1)
+panorama_2AA5C29B_2646_C949_41B6_31280ED9ED78.label = Superior Twin B
+panorama_2AA5ED9D_2646_FB48_41B2_4BA5ED84E9FC.label = Superior Twin B (1)
+panorama_2AADC47A_2646_C9C8_4190_A1ADDCBB494E.label = Superior Twin B (2)
+panorama_2AA53B7B_2646_DFC8_41BA_75218542C9CF.label = Superior Twin B (WC)
+panorama_2A9A9F4F_2646_37C9_41A4_00C04DB94FD8.label = Toward the Garden
+panorama_3021D8CB_2093_AF3F_41BF_BE7F7106B3F5.label = View from the Street
+panorama_3182F027_2093_DF77_41A0_DD54F0A20522.label = View of the Main Entrance
+panorama_31F77993_20B1_E12D_41B1_4016CF346CE3.label = Waiting Area 1
+panorama_31F710FA_20B1_E0DF_41AC_4A0F11DE121D.label = Waiting Area 2
+panorama_3178A5C3_20F1_A125_41A4_3C039A1711E1.label = Waiting area
+panorama_312C1A4A_209F_6331_41AF_4402F3B00481.label = Walkway
+panorama_31652847_2090_AF3F_41A4_2CE5A64335B8.label = Walkway
+panorama_2AA8BC8B_2070_A71D_41A1_6F25DDF3EB0C.label = Way to coffee 1
+
+## Popup
+
+### Body
+htmlText_245ED9E1_3C13_459B_41CE_05118259C969.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Conference Room A</SPAN></DIV></div>
+htmlText_21E2EEB5_3C15_DFE5_41A2_DD651F49B0FC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Conference Room B</SPAN></DIV></div>
+htmlText_214A5350_3C13_46BC_41C2_E68F01A3A325.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Conference Room C</SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Green World Hotel

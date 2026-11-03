@@ -998,6 +998,7 @@ body { top: 0 !important; }
 .project-grid .g-item:nth-child(6) { grid-column: span 4; grid-row: span 4; }
 .project-grid .g-item:nth-child(7) { grid-column: span 5; grid-row: span 3; }
 .project-grid .g-item:nth-child(8) { grid-column: span 7; grid-row: span 3; }
+.project-grid .g-item:nth-child(9) { grid-column: span 5; grid-row: span 3; }
 .g-item img {
   backface-visibility: hidden;
   filter: none;
