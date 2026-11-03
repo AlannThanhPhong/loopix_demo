@@ -1504,17 +1504,44 @@ body { top: 0 !important; }
 }
 
 @media (max-width: 760px) {
+  .tour-detail-header {
+    background: rgba(255, 255, 255, 0.9);
+    -webkit-backdrop-filter: blur(14px);
+    backdrop-filter: blur(14px);
+  }
+
+  .tour-detail-header .logo-wordmark {
+    height: 28px;
+  }
+
+  .tour-detail-header .btn-contact {
+    align-items: center;
+    min-height: 44px;
+    min-width: 104px;
+    padding: 10px 16px;
+  }
+
   .tour-detail-page {
-    padding-top: 76px;
+    padding-top: 0;
   }
 
   .tour-detail-stage {
-    min-height: calc(100dvh - 76px);
+    min-height: 100vh;
+    min-height: 100svh;
+    min-height: 100dvh;
   }
 
   .tour-detail-frame {
-    height: calc(100dvh - 76px);
-    min-height: calc(100dvh - 76px);
+    height: 100vh;
+    height: 100svh;
+    height: 100dvh;
+    min-height: 100vh;
+    min-height: 100svh;
+    min-height: 100dvh;
+  }
+
+  .tour-detail-page > footer {
+    display: none;
   }
 }
 
@@ -2034,8 +2061,11 @@ html[data-active-lang="en"] .lang-btn[data-lang="vi"] {
   header.scrolled .nav { height: 76px; }
   .logo-wordmark { height: 34px; }
   .logo-mark { height: 54px; width: 54px; }
-  .tour-detail-header .nav { height: 76px; }
-  .tour-detail-header .logo-mark { height: 60px; width: 60px; }
+  .tour-detail-header .nav {
+    height: calc(64px + env(safe-area-inset-top, 0px));
+    padding-top: env(safe-area-inset-top, 0px);
+  }
+  .tour-detail-header .logo-mark { height: 44px; width: 44px; }
   .logo-mark-official { height: 44px; width: 44px; }
   .btn-contact {
     min-width: auto;
@@ -2167,5 +2197,56 @@ html[data-active-lang="en"] .lang-btn[data-lang="vi"] {
   }
   .foot-b {
     display: grid;
+  }
+}
+
+@media (max-width: 1100px) and (max-height: 520px) and (orientation: landscape) {
+  .tour-detail-header {
+    background: rgba(255, 255, 255, 0.9);
+    -webkit-backdrop-filter: blur(14px);
+    backdrop-filter: blur(14px);
+  }
+
+  .tour-detail-header .nav {
+    height: calc(48px + env(safe-area-inset-top, 0px));
+    padding-top: env(safe-area-inset-top, 0px);
+  }
+
+  .tour-detail-header .logo-mark {
+    height: 36px;
+    width: 36px;
+  }
+
+  .tour-detail-header .logo-wordmark {
+    height: 24px;
+  }
+
+  .tour-detail-header .btn-contact {
+    min-height: 40px;
+    min-width: 96px;
+    padding: 8px 14px;
+  }
+
+  .tour-detail-page {
+    padding-top: 0;
+  }
+
+  .tour-detail-stage {
+    min-height: 100vh;
+    min-height: 100svh;
+    min-height: 100dvh;
+  }
+
+  .tour-detail-frame {
+    height: 100vh;
+    height: 100svh;
+    height: 100dvh;
+    min-height: 100vh;
+    min-height: 100svh;
+    min-height: 100dvh;
+  }
+
+  .tour-detail-page > footer {
+    display: none;
   }
 }

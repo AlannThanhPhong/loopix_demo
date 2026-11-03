@@ -3,7 +3,7 @@
 //Generated with v2026.1.0, Tue Jul 14 2026
 
 var tour;
-var devicesUrl = {"general":"script_general.js"};
+var devicesUrl = {"general":"script_general.js?loopix=controls-v3-20261103"};
 const hasOwn = Object.hasOwn || function (obj, prop) {
     return Object.prototype.hasOwnProperty.call(obj, prop);
 };
